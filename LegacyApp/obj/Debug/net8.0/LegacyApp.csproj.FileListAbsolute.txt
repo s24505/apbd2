@@ -1,0 +1,12 @@
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/bin/Debug/net8.0/LegacyApp.deps.json
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/bin/Debug/net8.0/LegacyApp.dll
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/bin/Debug/net8.0/LegacyApp.pdb
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/obj/Debug/net8.0/LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfoInputs.cache
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/obj/Debug/net8.0/LegacyApp.AssemblyInfo.cs
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/obj/Debug/net8.0/LegacyApp.csproj.CoreCompileInputs.cache
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/obj/Debug/net8.0/LegacyApp.sourcelink.json
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/obj/Debug/net8.0/LegacyApp.dll
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/obj/Debug/net8.0/refint/LegacyApp.dll
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/obj/Debug/net8.0/LegacyApp.pdb
+/Users/Patryk/Desktop/School/apbd/apbd2/LegacyApp/obj/Debug/net8.0/ref/LegacyApp.dll
