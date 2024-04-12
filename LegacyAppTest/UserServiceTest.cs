@@ -6,7 +6,7 @@ namespace LegacyAppTest
     public class UserServiceTest
     {
         [Fact]
-        public void AddUser_Should_Return_False_When_Email_Without_At_And_Dopt()
+        public void AddUser_Should_Return_False_When_Email_Without_At_And_Dot()
         {
             //arrange
             string firstName = "John";
